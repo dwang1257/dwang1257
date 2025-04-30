@@ -3,6 +3,10 @@
 # 💫 About Me:
 I am a junior studying Computer Engineering at UMass Amherst, passionate about Finace, AI, and Cloud Computing
 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanwang1/)
+
+
 # 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +21,8 @@ Frameworks & Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
+
 ## 🔥 Highlighted Projects:
 - **[Lightbulb](lightbulb-ideas.vercel.app)** – AI-powered app generating personalized coding projects with Next.js/Flask.
-- **[Pomofocus Web App](dylanwangportfolio.vercel.app)** – Personal Portfolio
+- **[Portfolio Website](dylanwangportfolio.vercel.app)** – Personal Portfolio

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Dylan Wang</h1>
 
 # 💫 About Me:
-I am a junior studying Computer Engineering at UMass Amherst, passionate about Finace, AI, and Cloud Computing
+I work at IBM as a Software Engineer on the DB2 Analytics Accelerator team.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanwang1/)
@@ -25,4 +25,4 @@ Frameworks & Tools:
 
 ## 🔥 Highlighted Projects:
 - **[Lightbulb](lightbulb-ideas.vercel.app)** – AI-powered app generating personalized coding projects with Next.js/Flask.
-- **[Portfolio Website](dylanwangportfolio.vercel.app)** – Personal Portfolio
+- **[Portfolio Website](dwang.blog)** – Personal Portfolio
